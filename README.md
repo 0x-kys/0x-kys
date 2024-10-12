@@ -1,12 +1,11 @@
 ```
-for { kys() } here
+[kys|syk]
 you can find me on x dot com
 
 ---
 
-> work as a fullstack dev as my day job
-> learning low-level and systems programming
+> full-stack engineer @ [REDACTED]
+> low-level & systems programming enjoyer
 > can code in c, go, rust, and JaVaScRiPt
-> not a zigger yet :/
 ```
-[[x dot com]](https://x.com/0x_kys) [[kysfolio]](https://kysfolio.vercel.app/) 
+[[site]](https://0x-kys.github.io/) [[x dot com]](https://x.com/0x_kys)
