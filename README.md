@@ -1,11 +1,24 @@
-```
-[syk|kys]
-you can find me on x dot com
+```md
+### syk | kys
 
----
+dev @ [REDACTED] dealing with backend & automation.
 
-> full-stack developer @ [REDACTED]
-> systems & low-level enjoyer
-> can code in go, rust, python & JaVaScRiPt
+### more info
+
+ocassionally building for cli.
+
+### langs
+
+| primary     | fun stuff | scripting |
+| ----------- | --------- | --------- |
+| go          | zig       | go        |
+| rust        | htmx      | bash      |
+| python      | haskell   | python    | 
+| svelte(kit) | ~~~~~~~~~ | ~~~~~~~~~ |
+| typescript  | ~~~~~~~~~ | ~~~~~~~~~ |
+
+### links
+
+- 0x-kys.pages.dev
+- x.com/0x_syk
 ```
-[[site]](https://0x-kys.pages.dev/) [[x dot com]](https://x.com/0x_kys)
