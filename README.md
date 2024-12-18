@@ -7,18 +7,21 @@ dev @ [REDACTED] dealing with backend & automation.
 
 ocassionally building for cli.
 
-### langs
+### links
 
+- 0x-kys.pages.dev
+- x.com/0x_syk
+
+---
+
+| ----------- | --------- | --------- |
 | primary     | fun stuff | scripting |
 | ----------- | --------- | --------- |
 | go          | zig       | go        |
 | rust        | htmx      | bash      |
 | python      | haskell   | python    | 
-| svelte(kit) | ~~~~~~~~~ | ~~~~~~~~~ |
-| typescript  | ~~~~~~~~~ | ~~~~~~~~~ |
+| svelte(kit) | ......... | ......... |
+| typescript  | ......... | ......... |
 
-### links
-
-- 0x-kys.pages.dev
-- x.com/0x_syk
+---
 ```
